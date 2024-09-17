@@ -30,20 +30,3 @@ login("fatkhul", function(publish){
         })
     })
 })
-    
-// }
-// function getUser(token) {
-//     if (token)
-//         return {apiKey: "xkey123"}
-// }
-// function getFiles (apiKey) {
-//     if(apiKey)
-//         return files
-// }
-// const user = login("fatkhul amali")
-// console.log(user.token)
-// const {apiKey} = getUser(user.token)
-// console.log(apiKey)
-
-// const getUserFiles = getFiles(apiKey)
-// console.log(getUserFiles)
